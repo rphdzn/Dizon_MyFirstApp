@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dizon_MyFirstApplication</string>
+    <string name="hint">hint</string>
+    <string name="hello_tvl_ict">Hello TVL- ICT!</string>
+    <string name="todo">TODO</string>
+    <string name="click_to_enter">Click to Enter</string>
+</resources>
